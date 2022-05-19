@@ -6,13 +6,20 @@ We'll follow tradition in this assignment and write the Hello World program in J
 
 ## Step 1: Install Node.js
 
-First things first, we need to install Node. The best way to do this is to first install NVM (Node Version Manager). This is a command line utility that lets you easily manage and change your Node version, which is something you'll likely need to do at some point due to compatability restraints with external libraries.
+Node download page:
+https://nodejs.org/en/download/
 
-Go ahead and install NVM. You can view the installation instructions here: https://github.com/nvm-sh/nvm
+For Windows:  Download the correct installer based on if you are running a 32-bit or 64-bit system (Go to your settings (Windows Key + i) -> System -> About (might need to scroll down)  Inside about look for System type to see if you are on a 32-bit or 64-bit system.
 
-Once you're done installing, you can verify that the installation worked by restarting your command line, then entering the command `nvm --version`. If a version code is printed out, NVM has been installed successfully.
+For Mac: Download the mac installer.
 
-Finally, now that you have NVM, install the latest stable version of Node.js. You can do this by running `nvm install stable`.
+After installing the installer on either Windows/Mac, run the installer to completion.
+
+When done, you may need to restart your terminal.
+
+Run the command: node --version
+
+If that command runs successfully and you didn't get an error, you should be good to go!  If not, see the instructor or a TA for help
 
 ## Step 2: Writing Hello World
 
