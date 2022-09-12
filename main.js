@@ -15,3 +15,19 @@ console.log("HH   HH eeeee  lll lll oo  oo   ww ww ww  oo  oo rr     lll dd   dd
 console.log("HH   HH  eeeee lll lll  oooo     ww  ww    oooo  rr     lll  dddddd !!!");
 
 console.log("");
+
+//Stretch Goal//
+
+console.log("#######                        ");
+
+console.log("  #     ######   ####   ##### ");
+
+console.log("  #     #       #         #   ");
+
+console.log("  #     #####    ####     #   ");
+
+console.log("  #     #            #    #   ");
+console.log("  #     #       #    #    #   ");
+console.log("  #     ######   ####     #   ");
+console.log("");
+
